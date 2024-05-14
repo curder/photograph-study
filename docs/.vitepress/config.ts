@@ -35,15 +35,13 @@ export default defineConfig({
 });
 
 
-function nav()
-{
+function nav() {
     return [
-        //
+        {text: "曝光三要素", link: "/three-elements-of-exposure"},
     ];
 }
 
-function sidebarGuide()
-{
+function sidebarGuide() {
     return [
         //
     ];
