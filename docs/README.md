@@ -1,1 +1,1 @@
-# Photograph Study
+# 摄影基础学习
