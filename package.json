@@ -1,0 +1,15 @@
+{
+  "name": "photograph-study",
+  "description": "Record some photograph study",
+  "repository": "https://github.com/curder/photograph-study.git",
+  "author": "curder <q.curder@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.1.4"
+  }
+}
